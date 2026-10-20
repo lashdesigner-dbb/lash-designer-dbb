@@ -4,7 +4,7 @@ Site de agendamento responsivo para Lash Designer DBB, preparado para computador
 
 ## Acessar o site
 
-[**Abrir o site de agendamento**](https://nycolasfernandotv-hue.github.io/lash-designer-dbb/)
+[**Abrir o site de agendamento**](https://lashdesigner-dbb.github.io/lash-designer-dbb/)
 
 ## Sobre o projeto
 
